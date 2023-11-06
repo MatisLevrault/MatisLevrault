@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/matis-levrault/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="matis.levrault@epitech.eu">
+  <a href="mailto:matis.levrault@epitech.eu">
     <img src="https://img.shields.io/badge/OUTLOOK-blue?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook Badge"/>
   </a>
   <a href="your-twitter-URL">
@@ -27,4 +27,4 @@ I am a 3rd year student Developer <img src="https://media.giphy.com/media/WUlplc
 
 - :zap: In my free time, I read novels and mythological stories, plays video games and watch archeological documentaries.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matis-levrault/)  [![Outlook Badge](https://img.shields.io/badge/-OUTLOOK-blue?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:youremail@outlook.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matis-levrault/)  [![Outlook Badge](https://img.shields.io/badge/-OUTLOOK-blue?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:matis.levrault@epitech.eu)
