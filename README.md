@@ -20,11 +20,22 @@
 ---
 
 ### :man_technologist: About Me :
-I am a 3rd year student Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France -> Marseille.
-- :telescope: I’m currently preparing myself for a 4th year in South Korea to study Video Games !
+I am a 3rd year student developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France -> Marseille.
+- :telescope: Currently preparing for my 4th year in South Korea to study video games and korean culture !
 
-- :seedling: ?
-
-- :zap: In my free time, I read novels and mythological stories, plays video games and watch archeological documentaries.
+- :seedling:  <b>AREA | GROUPE DE 5 | 27/11/2023 - 14/01/2024 (EN COURS)</b>
+              Création d'un serveur, application cross-platform et site web agissant comme
+              interfaces utilisateur permettant ainsi une connexion entre plusieurs
+              softwares existants. (Docker, API, Agile Scrum, SQL, React Native, etc...)
+              <b>SURVIVOR | GROUPE DE 4 | 04/09/2023 - 01/10/2023</b>
+              Création d'une application mobile cross-platform portail, l'intégration d'un
+              API et plusieurs widgets tels que: trombinoscope, météo, changement de
+              langues, localisation, chat, news et informations.
+              <b>ZAPPY | GROUPE DE 5 | 22/05/2023 - 22/06/2023</b>
+              Création d'un jeu multijoueur en temps réel, impliquant la création d'un
+              serveur, d'intelligences artificielles, de mécaniques de jeux et la mise en place
+              de communication client AI/SERVEUR.
+              
+- :zap: My hobbies and interests are: Video Games - Mythologies - Artificial Intelligence - History - Archeology - Japanese/Korean/Chinese cultures - Travels - New Technologies - Crossfit 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matis-levrault/)  [![Outlook Badge](https://img.shields.io/badge/-OUTLOOK-blue?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:matis.levrault@epitech.eu)
