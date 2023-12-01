@@ -19,7 +19,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### 🧙‍♂️About Me :
 I am a 3rd year student developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France -> Marseille.
 - :telescope: Currently preparing for my 4th year in South Korea to study video games and korean culture !
 
