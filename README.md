@@ -23,7 +23,7 @@
 I am a 3rd year student developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France -> Marseille.
 - :telescope: Currently preparing for my 4th year in South Korea to study video games and korean culture !
 
-- :seedling:  <b><u> SOME OF MY EPITECH PROJECTS !</u></b><br>
+- :seedling:  <b>SOME OF MY EPITECH PROJECTS !</b><br>
                 <b>AREA | GROUPE DE 5 | 27/11/2023 - 14/01/2024 (EN COURS)</b><br>
                   Création d'un serveur, application cross-platform et site web agissant comme<br>
                   interfaces utilisateur permettant ainsi une connexion entre plusieurs<br>
