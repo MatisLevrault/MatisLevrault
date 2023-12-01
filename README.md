@@ -39,4 +39,4 @@ I am a 3rd year student developer <img src="https://media.giphy.com/media/WUlplc
               
 - :zap: My hobbies and interests are: Video Games - Mythologies - Artificial Intelligence - History - Archeology - Japanese/Korean/Chinese cultures - Travels - New Technologies - Crossfit 
 
-- 📬:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matis-levrault/)  [![Outlook Badge](https://img.shields.io/badge/-OUTLOOK-blue?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:matis.levrault@epitech.eu)
+- 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matis-levrault/)  [![Outlook Badge](https://img.shields.io/badge/-OUTLOOK-blue?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:matis.levrault@epitech.eu)
