@@ -27,14 +27,14 @@ I am a 3rd year student developer <img src="https://media.giphy.com/media/WUlplc
                   Création d'un serveur, application cross-platform et site web agissant comme<br>
                   interfaces utilisateur permettant ainsi une connexion entre plusieurs<br>
                   softwares existants. (Docker, API, Agile Scrum, SQL, React Native, etc...)<br>
-              <b>SURVIVOR | GROUPE DE 4 | 04/09/2023 - 01/10/2023</b><br>
-                Création d'une application mobile cross-platform portail, l'intégration d'un<br>
-                API et plusieurs widgets tels que: trombinoscope, météo, changement de<br>
-                langues, localisation, chat, news et informations.<br>
-              <b>ZAPPY | GROUPE DE 5 | 22/05/2023 - 22/06/2023</b><br>
-                Création d'un jeu multijoueur en temps réel, impliquant la création d'un<br>
-                serveur, d'intelligences artificielles, de mécaniques de jeux et la mise en place<br>
-                de communication client AI/SERVEUR.<br>
+                <b>SURVIVOR | GROUPE DE 4 | 04/09/2023 - 01/10/2023</b><br>
+                  Création d'une application mobile cross-platform portail, l'intégration d'un<br>
+                  API et plusieurs widgets tels que: trombinoscope, météo, changement de<br>
+                  langues, localisation, chat, news et informations.<br>
+                <b>ZAPPY | GROUPE DE 5 | 22/05/2023 - 22/06/2023</b><br>
+                  Création d'un jeu multijoueur en temps réel, impliquant la création d'un<br>
+                  serveur, d'intelligences artificielles, de mécaniques de jeux et la mise en place<br>
+                  de communication client AI/SERVEUR.<br>
               
 - :zap: My hobbies and interests are: Video Games - Mythologies - Artificial Intelligence - History - Archeology - Japanese/Korean/Chinese cultures - Travels - New Technologies - Crossfit 
 
