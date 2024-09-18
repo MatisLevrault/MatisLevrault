@@ -21,7 +21,7 @@
 
 ### 🧙‍♂️ About Me :
 I am a 4th year student developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France -> Marseille.
-- :telescope: Currently preparing for my 4th year in South Korea to study video games and korean culture !
+- :telescope: Currently abroad in California for my fourth year of study.
               
 - :zap: My hobbies and interests are: Video Games - Mythologies - Artificial Intelligence - Archeology - Travels
 
