@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/matis-levrault/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:matis.levrault@epitech.eu">
-    <img src="https://img.shields.io/badge/OUTLOOK-blue?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook Badge"/>
-  </a>
 </div>
  <img src="https://komarev.com/ghpvc/?username=MatisLevrault&style=flat-square&color=blue" alt=""/>
   <div align="center">
